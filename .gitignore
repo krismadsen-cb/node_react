@@ -1,0 +1,10 @@
+*.secrets*
+.env
+*.crt
+*.key
+mysql/data
+.remote-sync.json
+web/node_modules
+test.py
+*bundle.js
+*bundle.js.map
